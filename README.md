@@ -4,4 +4,3 @@ Pharmaceutical drugs have become an essential part of our health. Therefore, the
 
 We work with a non-profit that advocates for pharmaceutical drug safety. One of Its tasks is to create reports on drugs independent of the drug manufacturer. We'll conduct several hypothesis tests using Python to determine if the adverse reactions of a hypothetical drug are significant. We'll also check if factors such as age and sex significantly influence the adverse reactions.
 ## Project Tasks
-* Analyze pharmaceutical drug treatment effects.
